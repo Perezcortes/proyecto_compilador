@@ -8,7 +8,7 @@ raiz = Tk()
 #raiz.geometry(f"{raiz.winfo_screenwidth()}x{raiz.winfo_screenheight()}+0+0")
 raiz.config(background="dark turquoise")
 raiz.geometry("800x500") 
-raiz.title("by: Christian Campos")
+raiz.title("by: Team5 Compiladores")
 
 # Cargar la imagen de fondo (solo formatos .png o .gif son soportados por Tkinter)
 background_image = PhotoImage(file="portada.png")  # Asegúrate de usar una imagen en formato .png
